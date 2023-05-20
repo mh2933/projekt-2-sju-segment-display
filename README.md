@@ -8,6 +8,8 @@ de filer som är skapade/modifierade för projektet är:
 4. main.c
 5. setup.c
 
+
+
 1. Vad lärde ni er av projektet?
   Att hantera displayern och eeprom filerna och fick en bättre förståelse för att hantera C biblioteket och dess drivrutiner.
   
