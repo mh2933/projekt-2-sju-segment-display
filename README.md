@@ -10,15 +10,16 @@ de filer som är skapade/modifierade för projektet är:
 
 
 
-1. Vad lärde ni er av projektet?
+A. Vad lärde ni er av projektet?
   Att hantera displayern och eeprom filerna och fick en bättre förståelse för att hantera C biblioteket och dess drivrutiner.
   
-2. Vad var lätt/svårt? 
+B. Vad var lätt/svårt? 
   Det är mängden som oftast är det svåraste och att hitta en väg fram i alla filer. Och där var eeprom minnet det svåraste
   att greppa vad alla funktioner gör och vilka som är nödvändiga, och när man behöver en byte respektive word.  
+  Lätt var kanske ändå att få knapparna att fungera med dess funktioner. 
   
-3. Vad hade ni velat ha lärt er mer innan projektet? 
+C. Vad hade ni velat ha lärt er mer innan projektet? 
   Fått en djupare förståelse för eeprom och hur man hanterar det, men tiden är knapp så svårt att säga.
   
-4. Övriga kommentarer. 
-    
+D. Övriga kommentarer. 
+   Det är lärorikt för varje projekt man tar sig an och det är mycket information som behöver få tid att smälta för att man ska kunna känna sig    bekväm med kodning.  
