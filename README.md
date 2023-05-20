@@ -1,5 +1,5 @@
 # projekt-2-sju-segment-display
-projekt två i inbyggda system 1 där två sju segment displayers styrs med tre knappar på arduino uno sheild. 
+projekt två i inbyggda system 1 där två sju segment displayers styrs med tre knappar på en arduino uno sheild. 
 
 de filer som är skapade/modifierade för projektet är:
 1. display.c
